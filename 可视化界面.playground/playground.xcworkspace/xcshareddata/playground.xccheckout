@@ -5,31 +5,27 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7CADE20D-F197-4F95-8B68-8D7731FAEC17</string>
+	<string>5769A0D3-C580-45E8-BEC6-96F9B437B46A</string>
 	<key>IDESourceControlProjectName</key>
-	<string>pMyPlayground</string>
+	<string>playground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>796E4B8009288A8AC56FEE1756FBC54EFF71CA22</key>
-		<string>https://github.com/Deeer/swift.git</string>
 		<key>F9FE903265DB14790C75C345E136ED6BB812FB1D</key>
 		<string>https://github.com/Deeer/others.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>pMyPlayground.playground</string>
+	<string>可视化界面.playground/playground.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>796E4B8009288A8AC56FEE1756FBC54EFF71CA22</key>
-		<string>..</string>
 		<key>F9FE903265DB14790C75C345E136ED6BB812FB1D</key>
-		<string>../../others</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Deeer/swift.git</string>
+	<string>https://github.com/Deeer/others.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>796E4B8009288A8AC56FEE1756FBC54EFF71CA22</string>
+	<string>F9FE903265DB14790C75C345E136ED6BB812FB1D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -39,14 +35,6 @@
 			<string>F9FE903265DB14790C75C345E136ED6BB812FB1D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>others</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>796E4B8009288A8AC56FEE1756FBC54EFF71CA22</string>
-			<key>IDESourceControlWCCName</key>
-			<string>swift</string>
 		</dict>
 	</array>
 </dict>
