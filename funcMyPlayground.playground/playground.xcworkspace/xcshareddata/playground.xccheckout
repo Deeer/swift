@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C255FDA1-B7DA-4E18-AF50-46BB18CF145C</string>
+	<string>C68BFF1E-1E43-45D8-BEC7-F9F38E7A16CF</string>
 	<key>IDESourceControlProjectName</key>
 	<string>playground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,7 +14,7 @@
 		<string>https://github.com/Deeer/swift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>A_1(数组等).playground/playground.xcworkspace</string>
+	<string>funcMyPlayground.playground/playground.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>796E4B8009288A8AC56FEE1756FBC54EFF71CA22</key>
