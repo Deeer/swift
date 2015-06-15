@@ -4,7 +4,7 @@ import UIKit
 
 
 var  arr:[Int] = [2,4,3,5,6,3,343,57,334,]
-sorted(arr)
+sort(arr)
 
 
 sorted(arr, {(a:Int,b:Int) -> Bool in

@@ -102,6 +102,61 @@ var curValue = 4
 var moveN = choseStepFunction(curValue > 0)
 moveN(3)
 
+let names = ["dee","dea","das","due"]
+func backwa(s1:String,s2:String) ->Bool
+{
+    return s1 > s2
+}
+var  reversed  = names.sort(backwa)
+reversed = names.sort({(s1:String,s2:String) -> Bool in return s1 > s2})
+reversed = names.sort({s1,s2 in return s1 > s2})
+reversed = names.sort({s1,s2 in s1 > s2})
+reversed = names.sort({$0 > $1})
+reversed = names.sort(>)
+reversed = names.sort(){$0 > $1}
+var dee = 1
+func ad() ->Int{
+    dee = 4
+    return dee
+}
+
+ad()
+dee
+
+
+enum  CompassPoint
+{
+    case North
+    case South
+    case East
+    case West
+    
+}
+
+var direction = CompassPoint.East
+direction = .South
+
+enum Barcode {
+    
+    case UPCA(Int,Int,Int,Int)
+    case QRScale(String)
+    
+}
+
+var productBarcode = Barcode.UPCA(2, 97, 79, 8)
+    productBarcode = .QRScale("adasd")
+
+switch productBarcode
+{
+case let .UPCA(numberSystem,manufacture,product,check):
+    print("a")
+case let .QRCode(let productCode):
+    print("sa")
+}
+
+
+
+
 
 
 
